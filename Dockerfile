@@ -1,4 +1,4 @@
-FROM nginx:alpine
+FROM roura/tengine
 
 LABEL maintainer="Alberto Roura mail@albertoroura.com"
 
